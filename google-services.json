@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784219800133",
+    "firebase_url": "https://diary-31ea4.firebaseio.com",
+    "project_id": "diary-31ea4",
+    "storage_bucket": "diary-31ea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784219800133:android:cd9339f785d099e244192c",
+        "android_client_info": {
+          "package_name": "com.example.tram_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784219800133-3dbblgd3ee2ftt8g0i7pnccgjnetq395.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-EoZLWUkgRme0WNbUH8pgPo1YTIGwMd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784219800133-3dbblgd3ee2ftt8g0i7pnccgjnetq395.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
